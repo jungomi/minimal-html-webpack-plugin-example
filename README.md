@@ -1,6 +1,6 @@
-# Minimal webpack-html-plugin example
+# Minimal html-webpack-plugin example
 
-A minimal example using [webpack-html-plugin][plugin].
+A minimal example using [html-webpack-plugin][plugin].
 
 ## Install dependencies
 
